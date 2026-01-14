@@ -1,0 +1,25 @@
+/* RESET GLOBAL: Garante que as margens não quebrem o layout */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f2f5; /* Cinza claro profissional */
+    color: #1a1a1a;
+    min-height: 100vh;
+    line-height: 1.5;
+}
+
+/* Garante que o React ocupe a largura total */
+#root {
+    width: 100%;
+}
+
+button {
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.2s ease;
+}
