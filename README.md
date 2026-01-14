@@ -1,11 +1,11 @@
 Sistema Full Stack desenvolvido para o gerenciamento dinâmico de estoque de uma auto peças, com foco em segurança, controle financeiro e usabilidade.
 🚀 Tecnologias Utilizadas
-*O projeto foi construído utilizando as seguintes tecnologias:
-.Frontend-React.js-Interface de usuário dinâmica e reativa.
-.Backend	Node.js + Express	Criação de API RESTful e rotas de autenticação.
-.Banco de Dados	SQLite + Knex.js-Persistência de dados e consultas SQL.
-.Segurança-Bcrypt-Criptografia de senhas (Hashing).
-.Design/UI	Lucide Icons + CSS3	Estilização moderna e iconografia profissional.
+O projeto foi construído utilizando as seguintes tecnologias:
+*Frontend-React.js-Interface de usuário dinâmica e reativa.
+*Backend	Node.js + Express	Criação de API RESTful e rotas de autenticação.
+*Banco de Dados	SQLite + Knex.js-Persistência de dados e consultas SQL.
+*Segurança-Bcrypt-Criptografia de senhas (Hashing).
+*Design/UI	Lucide Icons + CSS3	Estilização moderna e iconografia profissional.
 
 ✨ Funcionalidades Principais
 .Autenticação Segura: Sistema de login e cadastro com senhas protegidas via bcrypt.
